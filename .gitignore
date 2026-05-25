@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+
+# Database
+*.db
+
+# YOLO
+runs/
+
+# Streamlit
+.streamlit/
+
+# VS Code
+.vscode/
+
+# Images
+outputs/crops/
+
+# OS Files
+.DS_Store
